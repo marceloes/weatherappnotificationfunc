@@ -1,1 +1,4 @@
 azure-functions
+requests
+azure.cosmos
+azure-storage-queue
